@@ -1,6 +1,6 @@
 cask "cmdtab" do
-  version "0.1.8"
-  sha256 "64d86ce682f94a50cd0bea1f8f7566f4ab125406c1800053e98b3129e7f22112"
+  version "0.1.9"
+  sha256 "a6e27b3ec04ef5fccf64207ab8be53b53aeda093816ec2202e2f982f01681dad"
 
   url "https://github.com/sshelll/CmdTab/releases/download/v#{version}/CmdTab.dmg"
   name "CmdTab"
